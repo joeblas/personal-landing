@@ -41,7 +41,7 @@ export default function Home() {
         }
 
         main {
-          padding: 5rem 30rem;
+          padding: 5rem 0rem;
           flex: 1;
           display: flex;
           flex-direction: column;
